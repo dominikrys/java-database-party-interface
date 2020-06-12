@@ -1,4 +1,4 @@
-# Java Interface for Party Database (SQL)
+# Java Interface for a PostgreSQL Database
 
 ***2nd Year Computer Science Project at the University of Birmingham***
 
